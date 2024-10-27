@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mateuszptak. 
-- 👀 I’m interested in re-brand. I'd love to change my job and get in to IT as Junior Flutter Developer.
-- 🌱 I’m currently learning Dart and Flutter! 
-- 💞️ I’m looking to collaborate on learning Dart & Flutter together :)
+- 🕮 Computer Science Student at WSB Merito in Warsaw.
+- 🤹🏼‍♂️ DART | FLUTTER | JAVA
 - 📫 How to reach me? mateusz.ptak2612@gmail.com <- just like that!
 - 👩‍🏫 LinkedIn: https://www.linkedin.com/in/mattbird92/
 
